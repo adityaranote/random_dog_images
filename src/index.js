@@ -10,3 +10,15 @@ root.render(
     <App/>
     </React.StrictMode>
 );
+
+
+let a = 10 
+
+function aditya(){
+     let a = 16
+    
+      a = 20
+    console.log(a)
+}
+
+aditya()
